@@ -1,0 +1,17 @@
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\bin\ARM\Debug\resources.pri
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\bin\ARM\Debug\AppxManifest.xml
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\bin\ARM\Debug\NodejsWebServer.build.appxrecipe
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\ResourceHandlingTask.state
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\NodejsWebServer.njsproj.GenerateResource.Cache
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\priconfig.xml
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\priconfig.xml.intermediate
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\layout.resfiles
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\layout.resfiles.intermediate
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\resources.resfiles
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\resources.resfiles.intermediate
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\pri.resfiles
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\pri.resfiles.intermediate
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\qualifiers.txt
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\orhanturk\documents\visual studio 2015\Projects\NodejsWebServer\NodejsWebServer\obj\ARM\Debug\ProjectArchitectures.txt
